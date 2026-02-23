@@ -3,6 +3,12 @@
 ### Objective
 * Build up a suite of social media assets to promote the conferences
 
+Historically Facebook and Instagram have not been massively used for R community outreach. However they are very easy to use, and there are multiple advantages to maintaining an social media asset on these platforms.
+
+- Enoough people use both platforms to make it worthwhile
+- Multiple admins can easily be facilitated using Meta Business Suite.
+- Post Scheduling is convenient.
+- Post boosting (i.e. paid promotion) is straigtforward to implement.
 
 ---------------------------------------------
 
