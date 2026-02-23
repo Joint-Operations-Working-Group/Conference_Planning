@@ -13,14 +13,19 @@
 
 - **Step-free access to all key areas**  
   - Entrances, registration desks, lecture halls, breakout rooms, dining areas, and restrooms.
+
 - **Wheelchair‑accessible routes clearly marked**  
   - Avoid steep ramps, narrow corridors, or heavy manual doors.
+
 - **Elevators in working order**  
   - Check capacity, signage, and whether they require staff assistance.
+
 - **Reserved seating for wheelchair users and companions**  
   - Ensure good sightlines and easy entry/exit.
+
 - **Accessible restrooms**  
   - Wide doors, grab bars, turning radius, and proximity to main event spaces.
+
 - **Accessible parking or drop‑off zones**  
   - Close to the main entrance with clear signage.
  
@@ -28,11 +33,11 @@
 
 ### 1.2 Public Transport
 
-Warsaw in 2026 is a study in "modern inclusivity." While its history is preserved, its infrastructure has been rebuilt with a focus on accessibility.
+Warsaw in 2026 is a study in "modern inclusivity." The **Public Transport (ZTM)**  system's infrastructure has been rebuilt with a focus on accessibility.
 
-* **Public Transport (ZTM):** * **Buses & Trams:** 100% of the bus fleet and almost all modern trams are low-floor. Look for the wheelchair icon on timetables (often in square brackets).
+* * **Buses & Trams:** 100% of the bus fleet and almost all modern trams are low-floor. Look for the wheelchair icon on timetables (often in square brackets).
 
-* **Metro:** Both lines ( and ) are fully accessible with elevators at every station. There is no "gap" to bridge between the platform and the train.
+* **Metro:** Both lines M1 and M2 are fully accessible with elevators at every station. There is no "gap" to bridge between the platform and the train.
 
 * **Main Interchanges:** Stations like *Warszawa Centralna* have dedicated assistance staff. You can call +48 22 474 60 16 to arrange a guide or ramp assistance for trains.
 
@@ -41,6 +46,7 @@ Warsaw in 2026 is a study in "modern inclusivity." While its history is preserve
 ### 1.3 Conference Venues
 
 * **University of Warsaw:** The main campus is largely accessible, with paved paths and ramps. The "BON" (Office for Persons with Disabilities) provides specific digital maps and on-site support.
+* 
 * **SGH (School of Economics):** The main "G" building is barrier-free. It features a "glass elevator" specifically adapted for wheelchairs and a "Parachute Hall" ramp to navigate level changes.
 
 * **The "Old Town" Caveat:** While the Royal Route is manageable, the inner Old Town is famous for original cobblestones. Suggest attendees use the "smooth" stone paths usually laid on the edges of the sidewalks.
@@ -51,7 +57,9 @@ Warsaw in 2026 is a study in "modern inclusivity." While its history is preserve
 ### 1.4 The Berlin-Warsaw Express Accessibility
 
 * **Boarding:** Since Polish platforms can vary in height, the train uses a manual or hydraulic lift.
+
 * **Pre-booking:** For travelers from Berlin, you must notify the **DB Mobility Service Centre** or **PKP Intercity** 24–48 hours in advance.
+
 * **Onboard:** There is a dedicated carriage with an oversized accessible toilet and a specialized wheelchair parking area with power outlets.
 
 
@@ -60,11 +68,13 @@ Warsaw in 2026 is a study in "modern inclusivity." While its history is preserve
 ### 1.5 Visual & Sensory Accessibility Off-Site
 
 * **"Virtual Warsaw" (IoT Beacons):** The city uses thousands of Bluetooth beacons (via the **YourWay** or **Virtual Warsaw** apps). These provide micro-navigation, announcing bus stop names and museum room descriptions directly to a smartphone.
+
 * **Tactile Navigation:** * **Yellow "Blister" Tiles:** Installed at all Metro platforms and major bus stops to signal the edge.
+
 * **Braille Signage:** Standard in all Metro elevators and on modern SGH and University building doors.
 
-
 * **Audio Assistance:** * **Public Transit:** All new vehicles feature voice announcements for current and upcoming stops.
+
 * **TOTUPOINT:** A specialized system at airports and SGH that uses audio signals to help blind users locate specific points like elevators or information desks.
 
 ---
